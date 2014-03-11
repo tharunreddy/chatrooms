@@ -1,0 +1,14 @@
+{
+  "name": "chatrooms",
+  "version": "0.0.1",
+  "description": "Minimalist chatroom server",
+  "main": "app.js",
+  "author": {
+    "name": "Tharun",
+    "email": ""
+  },
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "mime": "~1.2.11"
+  }
+}
